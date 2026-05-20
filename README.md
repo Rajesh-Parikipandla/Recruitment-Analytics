@@ -67,15 +67,6 @@ The three tables are linked relationally via Job_ID (between Jobs and Pipeline) 
 * Visual analysis of recruitment pipeline and sourcing effectiveness  
 * Business-focused insights for data-driven hiring decisions
 
-<h2>Key Insights: </h2>
-
-* Identified top-performing recruiters based on candidate closures and joining’s.  
-* Analyzed candidate movement across different hiring stages to detect recruitment bottlenecks.  
-* Evaluated sourcing channels to understand the most effective candidate sources.  
-* Tracked hiring trends, joining success rate, and recruiter productivity.  
-* Measured important KPIs such as total joining’s, revenue generated, and average time-to-hire.  
-* Developed interactive visualizations to support faster and data-driven recruitment decisions using Microsoft Power BI.
-
 <h2>Data Cleaning: </h2>
 
 * Removed duplicate and null records from the dataset.
@@ -135,3 +126,36 @@ The dashboard includes:
 Interactive slicers and visualizations were used to support data-driven recruitment decisions and improve hiring efficiency.
 
 <h2>Dashboard Preview: </h2>
+
+![Recruitment Dashboard](Recruitment%20Analytics%20-%20PowerBI%20Image.jpg)
+
+<h2>Key Insights: </h2>
+
+* Identified top-performing recruiters based on candidate closures and joining’s.  
+* Analyzed candidate movement across different hiring stages to detect recruitment bottlenecks.  
+* Evaluated sourcing channels to understand the most effective candidate sources.  
+* Tracked hiring trends, joining success rate, and recruiter productivity.  
+* Measured important KPIs such as total joining’s, revenue generated, and average time-to-hire.  
+* Developed interactive visualizations to support faster and data-driven recruitment decisions using Microsoft Power BI.
+
+<h2>Recommendations: </h2>
+
+*  Improve submission quality by strengthening pre-screening and improving JD-to profile matching to reduce irrelevant submissions and increase interview conversion rates.  
+* Focus on high-performing recruiters such as Sanjay Mehta and Sunita Rao, who  generate higher revenue per closure. Their sourcing methods and client engagement strategies can be analyzed and replicated across teams.  
+* Address aging job requisitions by reviewing positions that have remained open for a long period. Revising job requirements, prioritizing urgent roles, or closing inactive positions can improve recruitment efficiency.  
+* Improve client-specific hiring performance by analyzing low fill-rate accounts such as Wipro and identifying challenges related to salary expectations, role requirements, or interview processes.  
+* Optimize sourcing strategies by monitoring conversion rates across recruitment channels and allocating efforts toward higher-performing sources.  
+* Track visa-related risks more effectively by monitoring OPT candidate work authorization timelines to reduce last-stage drop-offs and hiring delays.
+
+<h2>Conclusion: </h2>
+
+This project successfully demonstrates an end-to-end Recruitment Analytics workflow using  real-world US IT staffing data. The data was cleaned, analyzed, and transformed using Python and MySQL, followed by interactive dashboard creation in Microsoft Power BI. 
+The analysis provided valuable insights into recruiter performance, hiring trends, sourcing effectiveness, placements, and recruitment bottlenecks. By tracking important KPIs and visualizing recruitment data, the project supports data-driven decision-making and helps 
+improve overall hiring efficiency. 
+This project also strengthened practical skills in data cleaning, SQL analysis, EDA, database design, and business intelligence reporting.
+
+<h3>Rajesh Parikipandla <br>
+Aspiring Data Analyst <br>
+SQL | Power BI | Python | Excel <br> 
+Hyderabad</h3>
+
